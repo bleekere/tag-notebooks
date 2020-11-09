@@ -1,0 +1,7 @@
+[!{
+  ":ontology": {
+    "root": "tagml",
+    "elements": "line", "s", "del", "add"
+  }
+}!]
+[tagml|+A,+B>[line|A>[s|B>Indien met het vorenvermelde rekening wordt gehouden<line][line|A>biedt het hierbij gevoegde cijfermateriaal m.i. een <|[del|B>vol<line]doende betrouwbare<del]|[add|B>zekere<add]|> basis ...<line]<s]<tagml]
