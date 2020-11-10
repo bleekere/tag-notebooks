@@ -1,0 +1,24 @@
+[!{
+  ":ontology": {
+    "root": "tagml",
+    "elements": {
+      "tagml": {
+        "description": "root element and selected syntax"
+      },
+      "l": {
+        "description": "line on document pages"
+      },
+      "s": {
+        "description": "sentence in text"
+      }
+    }
+  }
+}!]
+
+[tagml|+A,+B>
+	[l|A>[s|B>Het is duidelijk, dat de onder deze<l][l|A>aantallen vallende beroepsbeoefenaren niet alle als<l][l|A>"moeilijk misbaar" kunnen worden aangemerkt.<s]<l]
+<tagml]
+
+
+
+
